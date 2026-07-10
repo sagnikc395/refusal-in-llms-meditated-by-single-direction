@@ -1,0 +1,10 @@
+{
+  "library": "transformer_lens",
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "n_prompts": 40,
+  "best_layer": 12,
+  "diff_in_means_test_auc": 1.0,
+  "probe_cv_auc_mean": 1.0,
+  "probe_cv_auc_std": 0.0,
+  "behavioral_validation_auc": 0.983
+}
